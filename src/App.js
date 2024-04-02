@@ -1,10 +1,11 @@
 import "./App.scss";
+import SubList from "./components/subscription/SubList";
 
 
 function App() {
 	return (
 		<div>
-			<h1>hello</h1>
+		<SubList/>
 		</div>
 	);
 }
